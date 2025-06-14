@@ -1,0 +1,14 @@
+{
+    "legacy_addon_id": "",
+    "title": "[DD] FAQ",
+    "description": "",
+    "version_id": 1000070,
+    "version_string": "1.0.0",
+    "dev": "DDCats Live",
+    "dev_url": "https://t.me/ahk_lzt",
+    "faq_url": "https://ddcats.live",
+    "support_url": "",
+    "extra_urls": [],
+    "require": [],
+    "icon": "icon.png"
+}
