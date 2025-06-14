@@ -4,7 +4,7 @@ XenForo 2.2 Addons
 
 Добавляет страницу которую можно по своему модифицировать.
 
-[https://ddcats.live/attachments/740/](https://ddcats.live/attachments/736/)
+![image](https://github.com/user-attachments/assets/06eeaa7c-dc14-4c5d-8cc1-ccacf4a9b428)
 
 Credits: 
 https://ddcats.live
